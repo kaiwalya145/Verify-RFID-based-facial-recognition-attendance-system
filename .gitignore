@@ -1,0 +1,14 @@
+# Firebase / API Secrets
+serviceAccountKey.json
+
+# Local Databases & Logs
+*.db
+*.sqlite3
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Optional: Dlib model weights if not using Git LFS
+# data/data_dlib/*.dat
