@@ -1,0 +1,6 @@
+dlib
+numpy
+opencv-python
+firebase-admin
+mfrc522
+RPi.GPIO
